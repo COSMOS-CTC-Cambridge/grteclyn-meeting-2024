@@ -2245,7 +2245,7 @@ input, select, textarea {
 
 	#intro {
 		background: url("images/overlay.png"), url("../../images/fulls/Centre for Mathematical Sciences_6795429184_o.jpg");
-		background-size: 3264px 2448px, cover;
+		background-size: cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
