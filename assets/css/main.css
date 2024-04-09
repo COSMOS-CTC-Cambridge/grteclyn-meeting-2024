@@ -2247,7 +2247,7 @@ input, select, textarea {
 		background: url("images/overlay.png"), url("../../images/fulls/Centre for Mathematical Sciences_6795429184_o.jpg");
 		background-size: 3264px 2448px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top left, bottom center;
+		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
 	}
 
@@ -2281,7 +2281,7 @@ input, select, textarea {
 /* Travel */
 
 	#travel {
-		background: url("images/overlay.png"), url("../../images/fulls/IMG_1530.JPG");
+		background: url("images/overlay.png"), url("../../images/fulls/New Museum Site_4253579143_o.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
