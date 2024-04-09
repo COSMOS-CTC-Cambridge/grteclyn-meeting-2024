@@ -2271,7 +2271,7 @@ input, select, textarea {
 /* CTC */
 
 	#ctc {
-		background: url("images/overlay.png"), url("../../images/two.jpg");
+		background: url("images/overlay.png"), url("../../images/fulls/stephen_hawking_ctc.png");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
